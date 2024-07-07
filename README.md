@@ -4,6 +4,7 @@ This project is a web application built with React and Redux Toolkit, fetching d
 
 # LIVE URL:
 
+https://sapcex-azure.vercel.app/launches
 
 ## Prerequisites
 
