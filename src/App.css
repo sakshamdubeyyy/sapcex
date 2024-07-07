@@ -1,3 +1,9 @@
+body {
+  background-color: #1a1a1a; /* Dark background */
+  color: #f0f0f0; /* Light text */
+}
+
+
 .App {
   text-align: center;
 }
